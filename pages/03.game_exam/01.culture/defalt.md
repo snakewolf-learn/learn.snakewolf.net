@@ -13,5 +13,6 @@ title: '文化・歴史'
 ! ここに重要事項が載ります
 〇最重要箇所
 !! ここに最重要事項が載ります
-#### 1-2.対応級表示
-[right]![Static Badge](https://img.shields.io/badge/対象-11級-blue)[/right]
+#### 1-2.バッジ
+!= badgetext
+
